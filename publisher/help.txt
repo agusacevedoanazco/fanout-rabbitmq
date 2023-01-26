@@ -1,0 +1,1 @@
+curl -X POST -H "Content-Type: application/json" -d '{"msg":"demo"}' localhost:5000/pub
